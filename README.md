@@ -8,6 +8,7 @@
 6. git log ()
 7. git commit --amend (Va arreglar el último commit)
 8. git checkout -b rama-heroes
+9. git branch (Saber en que rama estamos)
 
 
 
