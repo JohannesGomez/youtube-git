@@ -8,6 +8,11 @@
 6. git log ()
 7. git commit --amend (Va arreglar el último commit)
 8. git checkout -b rama-heroes
+9.  git checkout master
+10. git branch -d rama-heroes (eliminar rama)
+11. git merge rama-heroes (unir rama heroes con el master)
+12. git push
+
 
 
 
