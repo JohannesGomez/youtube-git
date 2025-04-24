@@ -12,7 +12,7 @@
 11. git merge rama-heroes (unir rama heroes con el master)
 11. git branch -d rama-heroes (eliminar rama)
 12. git push
-13. git commit -am "git commit -am agregado"
+13. git commit -am "git commit -am agregado."(agrega y hace el  commit de una vez)
 
 
 
